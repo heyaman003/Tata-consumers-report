@@ -1,0 +1,13 @@
+.mainApp{
+    position: sticky;
+    top: 0;
+    width: 100vw;
+    height: 10vh;
+    z-index: 2;
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    align-items: center;
+    border-bottom: 1px solid rgba(40, 100, 250, 0.2);
+}
